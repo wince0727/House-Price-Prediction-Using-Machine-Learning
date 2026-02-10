@@ -1,5 +1,17 @@
 # Machine Learning – House Price Prediction
 
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: S.WINCE
+
+INTERN ID: CTIS5393
+
+DOMAIN: DATA ANALYTICS
+
+DURATION: 4 WEEEKS
+
+MENTOR: NEELA SANTOSH
+
 # Overview
 
 This project focuses on building a machine learning regression model to predict house prices using historical housing data. The task demonstrates the complete machine learning workflow including data loading, feature selection, model training, prediction, and evaluation.
