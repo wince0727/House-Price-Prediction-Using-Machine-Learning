@@ -56,7 +56,7 @@ Confirmation of successful model training and prediction
 
 # Sample Output
 
-![Task 2 Output]()
+![Task 2 Output](https://github.com/wince0727/House-Price-Prediction-Using-Machine-Learning/blob/main/Output.png)
 
 # Results
 
